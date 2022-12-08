@@ -1,12 +1,13 @@
-<b style ="font-size: 40px;">Hi 👋🏾, I'm Diondra Evans</b>
-Software Engineer | Frontend Web Developer | UX/UI Designer 
-🔭 I’m currently working on building the front-end of websites.
+<b><h1>Hi 👋🏾, I'm Diondra Evans</h1></b>
+<h2>Software Engineer | Frontend Web Developer | UX/UI Designer</h2> 
+<ul>
+  <li>🔭 I’m currently working on building the front-end of websites.</li>
 
-👨🏾‍💻 My projects are currently being uploaded tomy website at diondraj.github.io
+  <li>👨🏾‍💻 My projects are currently being uploaded tomy website at diondraj.github.io</li>
 
-📫 How to reach me contact me through email on my website
+  <li>📫 How to reach me contact me through email on my website</li>
 
-⚡ Fun fact: Learning Korean is a passion of mine.
-
-Languages and Tools:
+  <li>⚡ Fun fact: Learning Korean is a passion of mine. </li>
+</ul>
+<h2>Languages and Tools:</h2>
 bootstrap css3 git heroku html5 javascript react
