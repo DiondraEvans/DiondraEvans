@@ -1,4 +1,4 @@
-<b>Hi 👋🏾, I'm Diondra Evans</b>
+<b style ="font-size: 40px;">Hi 👋🏾, I'm Diondra Evans</b>
 Software Engineer | Frontend Web Developer | UX/UI Designer 
 🔭 I’m currently working on building the front-end of websites.
 
