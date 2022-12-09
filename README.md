@@ -3,7 +3,7 @@
 <ul>
   <li>🔭 I’m currently working on building the front-end of websites.</li>
 
-  <li>👨🏾‍💻 My projects are currently being uploaded tomy website at diondraj.github.io</li>
+  <li>👨🏾‍💻 My projects are currently being uploaded to my website at diondraj.github.io</li>
 
   <li>📫 How to reach me contact me through email on my website</li>
 
