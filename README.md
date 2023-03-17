@@ -19,5 +19,5 @@
   <li>Javascript</li>
   <li>React</li>
   <li>Express</li>
-  </li>Passport Authentication</li>
+  <li>Passport Authentication</li>
 </ul>
